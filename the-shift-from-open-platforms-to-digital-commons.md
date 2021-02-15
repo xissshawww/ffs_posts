@@ -28,7 +28,7 @@ date: 2020-08-04 15:55:33
 
 如果我们真的想保护超越市场的人类自由，我相信我们必须开始发展“平台合作主义”的新模式，超越“私人”企业控制的标准形式。我们需要开拓技术、组织和金融形式，使得用户能够mutualize他们自己在线共享的好处。我们必须能够避免被迫和秘密地向第三方交出个人信息和数字身份，因为第三方不一定是这些信息的可靠管理人员。
 
-转向基于公地的平台还有其他原因。David P. Reed[在1999年的一篇论文](http://www.reed.com/dpr/locus/gfn/reedslaw.html),\[[1](http://openthoughts-peerproduction.blogs.uoc.edu/the-shift-from-open-platforms-to-digital-commons/#footnotes)\]中写到，随着交互从基于“最佳内容”的*broadcasting*模型(值用*n*表示,指观众的人数),到一个*点对点传输* (peer-to-peer transactions) 的网络（网络的价值基于“大多数成员”\[most members\]并在数学上表示为n2），网络所产生的价值指数增长。
+转向基于公地的平台还有其他原因。David P. Reed[在1999年的一篇论文](http://www.reed.com/dpr/locus/gfn/reedslaw.html),[^1]中写到，随着交互从基于“最佳内容”的*broadcasting*模型(值用*n*表示,指观众的人数),到一个*点对点传输* (peer-to-peer transactions) 的网络（网络的价值基于“大多数成员”\[most members\]并在数学上表示为n2），网络所产生的价值指数增长。
 
 但到目前为止，最有价值的网络是那些*促进团体联系* (facilitate group affiliations) 以追求共同目标的网络。(我称这些团体为*公地* \[commons\])。Reed发现，“基于群体的网络” (group forming networks) 的价值是2n，这是一个非常大的数字。在这个网络中，人们拥有“为共同目标建立自由且负责任的联系”的工具。他的分析表明，Facebook、Twitter和其他专有网络平台所产生的价值仍然是未开发的，因为参与者只用有限的工具来发展彼此之间的信任和信心（开源工具将颠覆商业模式）。简而言之，公地的价值潜力被刻意扼杀了。
 
@@ -44,7 +44,7 @@ date: 2020-08-04 15:55:33
 
 这解决了开放网络环境下一个特别困难的集体行动问题：你如何知道一个给定的数字对象——一个比特币、一个法律文件、数字证书、数据集、一张选票或一个自我主张的数字身份——是“真实的东西”而不是伪造的？通过使用一个可搜索的在线“分类帐”来记录所有的交易（即比特币），区块链技术解决了这个问题，它充当了一种由巨大的分布式对等网络维护的永久记录。这使得比特币比集中存储的数据更加安全，因为在网络中如此多的节点中注册的比特币的真实性几乎不可能被颠覆。
 
-正因为（区块链的）这些功能，最近发布的一份报告表明，区块链技术可以提供一个关键基础设施去构建所谓的“分布式协作组织”（DCO, distributed collaborative organizations，有时被称为“分布式自治组织”）。\[[2](http://openthoughts-peerproduction.blogs.uoc.edu/the-shift-from-open-platforms-to-digital-commons/#footnotes)\] 这本质上是自组织的网络公地。DCO可以使用区块链技术在组织内为其成员提供指定的权限，这可以由区块链去管理和保证。反过来，这些权利可以与传统法律制度相联系，从而使这些权利在法律上可被认可和强制执行。
+正因为（区块链的）这些功能，最近发布的一份报告表明，区块链技术可以提供一个关键基础设施去构建所谓的“分布式协作组织”（DCO, distributed collaborative organizations，有时被称为“分布式自治组织”）。[^2] 这本质上是自组织的网络公地。DCO可以使用区块链技术在组织内为其成员提供指定的权限，这可以由区块链去管理和保证。反过来，这些权利可以与传统法律制度相联系，从而使这些权利在法律上可被认可和强制执行。
 
 关于如何使用区块链推进公地化的一个基本示例：在美国，前联邦通信委员会主席[Reed Hundt](https://en.wikipedia.org/wiki/Reed_Hundt)已经提议[使用区块链技术在住宅上建立分布式的太阳能发电网络以作为公共设施](https://idcubed.org/chapter-10-green-coins-using-digital-currency-build-new-power-platform/)。该分类账将记录一个给定的房主会产生多少能源，与他人分享多少能源，及消耗多少能源。实际上，该系统将使分布式太阳能电网和“绿色货币”（green currency）能够成为太阳能微电网或网络中的交换媒介，帮助推动太阳能电池板的采用。区块链相当于一个基于网络的体系结构，用于支持基于公地的治理。
 
@@ -62,7 +62,5 @@ date: 2020-08-04 15:55:33
 
 如前所述，这些为平台合作创造新的技术、组织和资金的倡议仍在出现，并在会议上进行辩论，就像[即将在纽约市的举行的](http://platformcoop.net)那样。它们将需要进一步的试验和开发，以使它们具有完全的功能和可扩展能力。然而，它们承诺提供具有吸引力的、潜在的突破性的替代方案，以取代那些规定参与条款、不促进普通民众共同利益的商业驱动型平台。通过为真正的交换、用户主权和控制提供更可信的系统，这些新形式可能很快使数字公地——以及用户驱动市场的混合形式——超越传统开放平台的价值创造能力。
 
-Footnotes:
-
-1.  See also David Bollier and John H. Clippinger, [*The Next Great Internet Disruption: Authority and Governance*](https://idcubed.org/chapter-3-next-great-internet-disruption-authority-governance/).
-2.  See the report [*Distributed Collaborative Organizations: Distributed Networks & Regulatory Frameworks*](http://bollier.org/distributed-networks-and-law), written by people associated with Swarm, the Berkman Center for Internet and Society, New York Law School and the MIT Media Lab. See also Rachel O’Dwyer, [*The Revolution Will (Not) Be Decentralized*](http://commonstransition.org/the-revolution-will-not-be-decentralised-blockchains); and Morgen E. Peck, [*The Future of the Web Looks a Lot Like Bitcoin*](http://spectrum.ieee.org/computing/networks/the-future-of-the-web-looks-a-lot-like-bitcoin). The blockchain and related legal issues are being actively discussed in a series of [global workshops](http://blockchainworkshops.org/) known as “Blockchain (R)evolution,” convened by Primavera De Filippi, Constance Choi and John Clippinger. For a broader introduction to this general topic, see John H. Clippinger and David Bollier, [*From Bitcoin to Burning Man and Beyond: The Quest for Identity and Autonomy in a Digital Society*](https://idcubed.org/bitcoin-burning-man-beyond/) (ID3, 2014).
+[^1]: See also David Bollier and John H. Clippinger, [*The Next Great Internet Disruption: Authority and Governance*](https://idcubed.org/chapter-3-next-great-internet-disruption-authority-governance/).
+[^2]: See the report [*Distributed Collaborative Organizations: Distributed Networks & Regulatory Frameworks*](http://bollier.org/distributed-networks-and-law), written by people associated with Swarm, the Berkman Center for Internet and Society, New York Law School and the MIT Media Lab. See also Rachel O’Dwyer, [*The Revolution Will (Not) Be Decentralized*](http://commonstransition.org/the-revolution-will-not-be-decentralised-blockchains); and Morgen E. Peck, [*The Future of the Web Looks a Lot Like Bitcoin*](http://spectrum.ieee.org/computing/networks/the-future-of-the-web-looks-a-lot-like-bitcoin). The blockchain and related legal issues are being actively discussed in a series of [global workshops](http://blockchainworkshops.org/) known as “Blockchain (R)evolution,” convened by Primavera De Filippi, Constance Choi and John Clippinger. For a broader introduction to this general topic, see John H. Clippinger and David Bollier, [*From Bitcoin to Burning Man and Beyond: The Quest for Identity and Autonomy in a Digital Society*](https://idcubed.org/bitcoin-burning-man-beyond/) (ID3, 2014).
