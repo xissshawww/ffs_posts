@@ -61,7 +61,8 @@ date: 2021-02-20
 
 [^3]: David Kinsley. *The Sword and the Flute.* (Berkeley: University of California Press)
 
-![kali](kali.jpg)
+<img src="kali.jpg" width="50%" height="50%">
+<center>Kali</center>
 
 不知不觉中对准了有机体，对准了镜面凝视，爬行动物骚动起来。第三脑室，动物精神的家园，拆解了人类。藐视视线的盲目武器的残余事件。剩下的是她节奏的痕迹，她运动所涂抹出来的印记--平滑的滑行--水平线。一个由速度（speed）和迟缓（slowness）组成的节奏。
 
@@ -88,6 +89,7 @@ menses /mensi:z/ 名词，复数。1月经时从子宫排出的血液和其他�
 身体是无机生命的孕育地。它的内部没有与环境封闭，它就像一个电导体，从地球的铁核中汲取能量。身体一直是后人类生命的金属集合体。她是流血的金属，是大地的铁。她的频率被调整到月球节奏的电磁学上，调整到地质褶皱上，调整到潮汐和洪荒之门上。她的血液会潮涨又潮落。
 
 ![blood-sea](blood-sea.jpg)
+<center>Blood Sea</center>
 
 
 ## 莉莉斯之夜[^14]
@@ -126,7 +128,8 @@ menses /mensi:z/ 名词，复数。1月经时从子宫排出的血液和其他�
 
 原发性卵泡发育成囊状卵巢卵泡一般需要10到14天。在第14天，囊状卵巢卵泡破裂，释放出次级卵母细胞，它沿着输卵管向下移动，并停留在盆腔内......(PAP, 903)[^8]
 
-![Human-Ovary](Human-Ovary.jpg)
+<img src="Human-Ovary.jpg" width="50%" height="50%">
+<center>人类卵巢</center>
 
 [^8]: *Principles of Anatomy and Physiology*: Sixth Edition. (New York: Harper Collins 1990)
 
@@ -144,7 +147,8 @@ menses /mensi:z/ 名词，复数。1月经时从子宫排出的血液和其他�
 
 并被留在了不同时代的废墟中。在一开始，“生物物种的每一个阶级和家族都是雌雄同体和独眼......当对于第三根（the third root）种族（性别的划分）来说，第三只眼（即松果体）是唯一的视觉器官。这时两只肉眼还未发育....只是后来松果体开始萎缩，肉眼才发育起来。”(TOOTTE 70)[^9]
 
-![pineal-gland](pineal-gland.jpeg)
+<img src="pineal-gland.jpeg" width="50%" height="50%">
+<center>松果腺</center>
 
 [^9]: Douglas Baker. *The Opening of the Third Eyes* (DM Baker 1993)
 
