@@ -14,7 +14,7 @@ date: 2020-12-30 15:18:32
 
 原文来自nyx land的博客[nyxus.xyz](https://nyxus.xyz/posts/blog-without-organs/) 译者：晚霞
 
-> 译者注：文中提到的Federation指的是*联盟网络*。关于*联盟网络*的具体介绍可以看「[Sean Tilley :: 一个通向自由网络的快速指南](https://freeformsuite.wordpress.com/2020/12/03/a-quick-guide-to-the-free-network/)」，或者访问[the-federation.info](https://the-federation.info)；[GNU Social](https://zh.wikipedia.org/wiki/GNU_social)
+> 译者注：文中提到的Federation指的是*联盟网络*。关于*联盟网络*的具体介绍可以看「[Sean Tilley :: 一个通向自由网络的快速指南](https://freeformsuite.guru/2020/12/a-quick-guide-to-the-free-network/)」，或者访问[the-federation.info](https://the-federation.info)；[GNU Social](https://zh.wikipedia.org/wiki/GNU_social)
 
 即使你不关注我的推特（译者注：[@NyxLandUnlife](https://twitter.com/NyxLandUnlife)），你也肯定注意到了，我的博客已经发生了一些大变化。我已经把她从运行Wordpress的VPS（虚拟专用服务器）全部搬到了Gitlab Pages上，并且使用[Hugo](https://gohugo.io)。
 
