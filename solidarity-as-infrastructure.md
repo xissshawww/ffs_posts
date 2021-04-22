@@ -1,11 +1,8 @@
 ---
 title: 'systemli :: 团结行动指南'
 tags:
-  - 行动指南
-  - 更好的工具
-categories:
-  - - 翻译
-  - - 安那其主义
+  - anarchy
+  - tools
 date: 2020-08-20 11:05:29
 ---
 

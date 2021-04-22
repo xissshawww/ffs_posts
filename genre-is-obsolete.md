@@ -2,10 +2,7 @@
 title: '书摘 :: Genre is Obsolete'
 tags:
   - noise
-  - ray brassier
-  - TLASILA
-categories:
-  - - k书记录
+  - ray-brassier
 date: 2020-08-23 15:08:41
 ---
 

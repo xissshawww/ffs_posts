@@ -1,14 +1,8 @@
 ---
 title: 'David Bollier :: 从开放平台到数字公地的转变'
 tags:
-  - David Bollier
-  - DigitalCommons
-  - OpenPlatform
-  - 平台协作主义
-  - 数字公地
-categories:
-  - - 翻译
-  - - 技术批判
+  - david-bollier
+  - digital-commons
 date: 2020-08-04 15:55:33
 ---
 

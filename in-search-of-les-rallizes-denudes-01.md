@@ -1,12 +1,7 @@
 ---
 title: 'Grayson Haver Currin :: 寻找裸身集会I'
 tags:
-  - 裸身集会
   - LRD
-  - 日本音乐
-categories:
-  - - 翻译
-  - - 音乐
 date: 2020-08-21 13:20:53
 ---
 

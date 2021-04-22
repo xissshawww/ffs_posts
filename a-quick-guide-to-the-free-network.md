@@ -4,9 +4,6 @@ tags:
   - Fediverse
   - free internet
   - mastodon
-categories:
-  - - 翻译
-  - - 自由网络
 date: 2020-12-03 21:25:25
 ---
 

@@ -2,10 +2,8 @@
 title: 'Laboria Cuboniks ::  异女权主义：一种针对异化的政治'
 tags:
   - xenofeminism
-  - 加速主义
-  - 异女权主义
-categories:
-  - - 女权主义
+  - cyber-feminism
+  - acc
 date: 2020-09-15 12:13:04
 ---
 

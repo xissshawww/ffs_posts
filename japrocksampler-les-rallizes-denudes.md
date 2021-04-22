@@ -1,8 +1,7 @@
 ---
 title: 'Japrocksampler :: Part7 LES RALLIZES DENUDÉS'
-tags: []
-categories:
-  - - 翻译
+tags: 
+    - LRD
 date: 2020-12-28 11:16:32
 ---
 

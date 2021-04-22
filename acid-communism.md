@@ -3,9 +3,6 @@ title: 'Mark Fisher :: 迷幻共产主义（导论）'
 tags:
   - mark-fisher
   - accelerationism
-categories:
-  - - acid-communism
-  - - accelerationism
 date: 2021-03-11 00:00:00
 ---
 

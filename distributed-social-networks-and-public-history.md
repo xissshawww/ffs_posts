@@ -2,10 +2,6 @@
 title: 'Online History :: 分布式社交网络和公共历史'
 tags:
   - Distributed
-  - 分布式
-categories:
-  - - 翻译
-  - - 自由网络
 date: 2020-12-03 22:04:01
 ---
 

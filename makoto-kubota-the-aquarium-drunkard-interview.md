@@ -1,13 +1,7 @@
 ---
 title: '久保田麻琴 :: 在Aquarium Drunkard的采访'
 tags:
-  - 细野晴臣
-  - 裸身集会
-  - 日本音乐
-  - 久保田麻琴
-categories:
-  - - 翻译
-  - - 音乐
+  - lrd
 date: 2020-12-27 14:28:47
 ---
 

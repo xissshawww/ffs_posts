@@ -2,7 +2,7 @@
 title: '裸身集会 :: 黒い悲しみのロマンセ'
 date: 2021-03-21 22:07:50
 tags:	
-  - 裸身集会
+  - lrd
 ---
 
 （提示来源：[rallizes.blogspot](http://rallizes.blogspot.com/2011/05/blog-post_8588.html)）

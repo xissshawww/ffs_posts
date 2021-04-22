@@ -1,12 +1,10 @@
 ---
 title: 'nyx :: 跨性别虚无主义'
 tags:
-  - 虚无主义
-  - 跨性别
-  - 加速主义
-categories:
-  - - 加速主义
-    - 性别加速主义
+  - n/acc
+  - nihilism
+  - acc
+  - g/acc
 date: 2021-01-11 17:39:19
 ---
 

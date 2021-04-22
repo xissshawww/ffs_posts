@@ -3,11 +3,6 @@ title: 'xenogothic :: 一个无条件加速主义Primer II'
 tags:
   - NickLand
   - U/Acc
-  - 加速主义
-categories:
-  - - 翻译
-  - - '加速主义'
-    - 无条件加速主义
 date: 2021-01-11 14:50:38
 ---
 

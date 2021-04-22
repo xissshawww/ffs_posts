@@ -1,11 +1,7 @@
 ---
 title: 'Free Jazz In Japan: A Personal History'
 tags:
-  - 自由爵士
-  - 日本音乐
-categories:
-  - - 翻译
-  - - k书记录
+  - free-jazz
 date: 2019-05-21 20:32:36
 ---
 

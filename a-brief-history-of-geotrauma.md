@@ -4,8 +4,6 @@ tags:
   - Geotraumatics
   - Geophilosophy
   - Geotrauma
-categories:
-  - - 翻译
 date: 2021-03-01
 ---
 

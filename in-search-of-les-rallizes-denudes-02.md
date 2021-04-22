@@ -1,10 +1,7 @@
 ---
 title: 'Grayson Haver Currin :: 寻找裸身集会II'
 tags:
-  - 裸身集会
   - LRD
-categories:
-  - - 翻译
 date: 2020-08-23 21:11:01
 ---
 

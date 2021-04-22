@@ -2,9 +2,7 @@
 title: "阵地LeFront :: 组装自己的学校，让无学校主义胜利！"
 date: 2021-03-31
 tags:
-  - 阵地
-  - Le Front
-  - 无学校主义
+  - le-front
 ---
 
 文 / Monsieur WC

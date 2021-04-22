@@ -2,13 +2,9 @@
 title: 'nyx :: 无器官的博客'
 tags:
   - decentrilization
-  - federation
-  - 加速主义
-  - 去中心化
-categories:
-  - - 翻译
-  - - 自由网络
-  - - 技术批判
+  - fediverse
+  - g/acc
+  - acc
 date: 2020-12-30 15:18:32
 ---
 

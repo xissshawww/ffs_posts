@@ -3,9 +3,7 @@ title: "n1x :: 性别加速主义：一个黑皮书"
 date: 2021-04-02
 tags:
   - g/acc
-  - 加速主义
-  - 性别加速主义
-  - 虚无主义
+  - acc
 ---
 
 文 / [n1x](https://nyxus.xyz/) 译 / 2501 原文来自[vastabrupt](https://vastabrupt.com/2018/10/31/gender-acceleration/)，译文首发于[旷野文盲俱乐部](https://mp.weixin.qq.com/mp/profile_ext?action=home&__biz=MzI0MTk3MTYwMw==&scene=124#wechat_redirect)，本文为转载。

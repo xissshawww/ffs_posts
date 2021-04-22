@@ -1,9 +1,7 @@
 ---
 title: 'Hex_editor :: 我们为什么要hack？'
-tags: []
-categories:
-  - - 自由网络
-  - - 技术批判
+tags: 
+    - hack
 date: 2020-12-28 16:59:48
 ---
 

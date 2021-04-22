@@ -1,15 +1,8 @@
 ---
 title: 'Terayamaland :: 映射戏剧的局限性：寺山修司对小说与现实之边界的挑战'
 tags:
-  - TenjoSajiki
-  - terayamashuji
-  - 天井桟敷
-  - 寺山修司
-  - 戏剧
-categories:
-  - - 翻译
-  - - '戏剧'
-    - 日本戏剧
+  - tenjo-sajiki
+  - terayama-shuji
 date: 2019-05-22 20:06:00
 ---
 

@@ -2,10 +2,6 @@
 title: 'Ccru :: 两栖少女'
 tags:
   - Ccru
-  - 加速主义
-categories:
-  - - 翻译
-  - - '加速主义'
 date: 2021-02-20
 ---
 
