@@ -4,7 +4,7 @@ tags:
   - tiqqun
 date: 2021-5-13 15:31:02
 ---
-> 本章译者[@someback](https://www.zhihu.com/people/ritona)，翻自Tiqqun的著作[a Theory of the Young-Girl](https://gitlab.com/xissshawww/ffs-lib/-/raw/master/Tiqqun-theory-of-young-girl.pdf)的第二章。
+> 本译文的译者是[@someback](https://www.zhihu.com/people/ritona)，本文翻自[Semiotext(e))版本的](https://gitlab.com/xissshawww/ffs-lib/-/raw/master/Tiqqun-theory-of-young-girl-2012-Semiotext(e).pdf)Tiqqun的著作*a Theory of the Young-Girl*的第二章：*THE YOUNG-GIRL AS TECHNIQUE OF THE SELF*。另一*Tiqqun 1, 1999*的版本[在此](https://gitlab.com/xissshawww/ffs-lib/-/raw/master/Tiqqun-theory-of-young-girl.pdf)下载（此版本的法译英的译者不详，见第四页）。
 
 ## “什么是快感？”
 

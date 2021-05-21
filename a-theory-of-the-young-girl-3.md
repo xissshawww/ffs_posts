@@ -4,7 +4,7 @@ tags:
   - tiqqun
 date: 2021-5-13 15:31:04
 ---
-> 本章译者[@someback](https://www.zhihu.com/people/ritona)，翻自Tiqqun的著作[a Theory of the Young-Girl](https://gitlab.com/xissshawww/ffs-lib/-/raw/master/Tiqqun-theory-of-young-girl.pdf)的第三章。
+> 本译文的译者是[@someback](https://www.zhihu.com/people/ritona)，本文翻自[Semiotext(e))版本的](https://gitlab.com/xissshawww/ffs-lib/-/raw/master/Tiqqun-theory-of-young-girl-2012-Semiotext(e).pdf)Tiqqun的著作*a Theory of the Young-Girl*的第三章：*THE YOUNG-GIRL AS SOCIAL RELATION*。另一*Tiqqun 1, 1999*的版本[在此](https://gitlab.com/xissshawww/ffs-lib/-/raw/master/Tiqqun-theory-of-young-girl.pdf)下载（此版本的法译英的译者不详，见第四页）。
 
 花季少女是基本的社会关系，景观中对欲望的欲望的主要形式。
 

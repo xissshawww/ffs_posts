@@ -4,7 +4,7 @@ tags:
   - tiqqun
 date: 2021-5-13 15:31:06
 ---
-> 本章译者[@someback](https://www.zhihu.com/people/ritona)，翻自Tiqqun的著作[a Theory of the Young-Girl](https://gitlab.com/xissshawww/ffs-lib/-/raw/master/Tiqqun-theory-of-young-girl.pdf)的第四章。
+> 本译文的译者是[@someback](https://www.zhihu.com/people/ritona)，本文翻自[Semiotext(e))版本的](https://gitlab.com/xissshawww/ffs-lib/-/raw/master/Tiqqun-theory-of-young-girl-2012-Semiotext(e).pdf)Tiqqun的著作*a Theory of the Young-Girl*的第四章：*THE YOUNG-GIRL AS COMMODITY*。另一*Tiqqun 1, 1999*的版本[在此](https://gitlab.com/xissshawww/ffs-lib/-/raw/master/Tiqqun-theory-of-young-girl.pdf)下载（此版本的法译英的译者不详，见第四页）。
 
 花季少女不像她担心地确保自身*价值*一样占有她在欲望市场上的价值的等价物，她想要精准而又确实地了解前者，通过使成千上万为她剩余的符号转化为她所称作的“诱惑潜能”，换句话说，她的*魔力（mana）*。
 
