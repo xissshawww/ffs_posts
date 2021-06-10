@@ -4,7 +4,11 @@ date: 2021-03-22 11:43:46
 tags:
     - lrd
 ---
+## §0 denude的考据
 
+裸身集会在日本被称为*Hadaka no rariizu*，*Hadaka no*被翻译成*nu*或*dénudé*，*裸のラリーズ*中的*ラリーズ*（发音ràríꜜrù）是日语俚语，来源于日语动词“ラリる”，意思是“嗑high了”（[提示来源](https://fleurmach.com/2016/03/27/les-rallizes-denudes/)），并且*ラリーズ*的[英文翻译](https://en.bab.la/dictionary/japanese-english/%E3%83%A9%E3%83%AA%E3%83%BC)Rallys也有“集合、集会、[鳩合](https://en.bab.la/dictionary/japanese-english/鳩合)、[反発](https://en.bab.la/dictionary/japanese-english/反発)”的意思。
+
+## §1 洛尔迦的duende
 关于裸身集会名字中的denude，如果水谷本人真的很喜欢洛尔迦，我推测这个取名的灵感可能来源于西班牙诗人洛尔迦本人非常着迷的duende，代表某种精灵。
 
 新牛津字典的解释：
@@ -28,7 +32,24 @@ Random House字典的解释是：
 
 > 在吉卜赛传统中，“魔灵”可以让表演者进入“着魔”“迷狂”的状态，并把观众也带入其中。洛尔迦所诉求的“魔灵”，正是这样一种存在。在美国诗人、洛尔迦诗歌的译者W.S.默温看来，正是在“魔灵”的掌握中，洛尔迦的诗歌“有着它的最纯粹的形式、音调、生命、存在，那就是我从一开始就一直在倾听的。”
 
-裸身集会在日本被称为*Hadaka no rariizu*，*Hadaka no*被翻译成*nu*或*dénudé*，*裸のラリーズ*中的*ラリーズ*（发音ràríꜜrù）是日语俚语，来源于日语动词“ラリる”，意思是“嗑high了”（[提示来源](https://fleurmach.com/2016/03/27/les-rallizes-denudes/)），并且*ラリーズ*的[英文翻译](https://en.bab.la/dictionary/japanese-english/%E3%83%A9%E3%83%AA%E3%83%BC)Rallys也有“集合、集会、[鳩合](https://en.bab.la/dictionary/japanese-english/鳩合)、[反発](https://en.bab.la/dictionary/japanese-english/反発)”的意思。
+
+## §2 威廉巴赫金的裸体午餐，naked lunch
+
+## §3 Jean Cocteau的*Orphée*中的空白手册：Nudisme
+*Sound Like Silence*，Spector Books：
+![](orphee1.png)
+![](orphee2.png)
+![](orphee3.png)
+
+Orphée: I see nothing but blank pages. 
+The Man: it’s called ‘Nudism’. 
+Orphée: But that ridiculous... 
+The Man: Not as ridiculous as pages covered with ridiculous text. Excess is never ridiculous. 
+
+在这篇阿木让对水谷的回忆录[吟唱镜子之歌的诗人](https://mp.weixin.qq.com/s/M4xgkqcr1V_AGxAKS2l_Gg)中，阿木让说：
+> 水谷也是这样。他的体内有Jean Cocteau的存在。他无时无刻都拿着Cocteau的书。我要是一问他：“小水谷啊，为什么要戴墨镜呢。” 他就说：“Cocteau说过：戴上墨镜就能看见死亡，就和他说的一样呗。”虽然很装腔作势但我还是想起了他对我说的这句话。去跳进无秩序的无政府世界，像谷尔多跳进镜子中，歌唱倒映的背面世界，那就是水谷的世界。
+
+水谷非常喜欢让科克托，这部奥菲斯中出现的空白小本子'Nudisme'应该也是一个导致Denudes这个名字的线索吧。
 
 +-----
 
