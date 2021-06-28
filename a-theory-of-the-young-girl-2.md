@@ -1,5 +1,5 @@
 ---
-title: 'Tiqqun :: 作为自我技术的花季少女'
+title: ':(((:)))Tiqqun :: 作为自我技术的花季少女'
 tags:
   - tiqqun
 date: 2021-5-13 15:31:02

@@ -1,5 +1,5 @@
 ---
-title: 'Gilles Deleuze :: 访谈'
+title: '((:))::Gilles Deleuze :: 访谈'
 date: 2021-04-30
 tags:	
   - gilles-deleuze

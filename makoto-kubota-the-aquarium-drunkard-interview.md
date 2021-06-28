@@ -1,5 +1,5 @@
 ---
-title: '久保田麻琴 :: 在Aquarium Drunkard的采访'
+title: '((:)):久保田麻琴 :: 在Aquarium Drunkard的采访'
 tags:
   - lrd
 date: 2020-12-27 14:28:47

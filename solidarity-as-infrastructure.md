@@ -1,5 +1,5 @@
 ---
-title: 'systemli :: 团结行动指南'
+title: '(:)systemli :: 团结行动指南'
 tags:
   - anarchy
   - tools

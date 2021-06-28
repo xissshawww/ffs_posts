@@ -1,5 +1,5 @@
 ---
-title: 'nyx :: 无器官的博客'
+title: '(((:)))nyx :: 无器官的博客'
 tags:
   - decentrilization
   - fediverse

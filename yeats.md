@@ -1,5 +1,5 @@
 ---
-title: 'W. B. Yeats :: 二次降临'
+title: '(:::)W. B. Yeats :: 二次降临'
 tags:
   - yeats
 date: 2021-04-30

@@ -1,5 +1,5 @@
 ---
-title: 'Mark Fisher :: 迷幻共产主义（导论）'
+title: '(::):Mark Fisher :: 迷幻共产主义（导论）'
 tags:
   - mark-fisher
   - accelerationism

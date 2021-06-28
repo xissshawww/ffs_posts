@@ -1,5 +1,5 @@
 ---
-title: 'Laboria Cuboniks ::  异女权主义：一种针对异化的政治'
+title: '(::)Laboria Cuboniks ::  异女权主义：一种针对异化的政治'
 tags:
   - xenofeminism
   - cyber-feminism

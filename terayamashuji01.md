@@ -1,5 +1,5 @@
 ---
-title: 'Terayamaland :: 映射戏剧的局限性：寺山修司对小说与现实之边界的挑战'
+title: ':Terayamaland :: 映射戏剧的局限性：寺山修司对小说与现实之边界的挑战'
 tags:
   - tenjo-sajiki
   - terayama-shuji

@@ -1,5 +1,5 @@
 ---
-title: 'Grayson Haver Currin :: 寻找裸身集会I'
+title: '::Grayson Haver Currin :: 寻找裸身集会I'
 tags:
   - LRD
 date: 2020-08-21 13:20:53

@@ -1,5 +1,5 @@
 ---
-title: 'Simon O’Sullivan :: 少数文学案例研究：RAF'
+title: '(:):::Simon O’Sullivan :: 少数文学案例研究：RAF'
 tags:
   - minor-literature
   - raf

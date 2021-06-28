@@ -1,5 +1,5 @@
 ---
-title: 'DENUDE'
+title: '((:))(:)DENUDE'
 date: 2021-03-22 11:43:46
 tags:
     - lrd

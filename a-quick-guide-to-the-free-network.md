@@ -1,5 +1,5 @@
 ---
-title: 'Sean Tilley :: 一个通向自由网络的快速指南'
+title: ':::Sean Tilley :: 一个通向自由网络的快速指南'
 tags:
   - Fediverse
   - free internet

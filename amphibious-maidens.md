@@ -1,5 +1,5 @@
 ---
-title: 'Ccru :: 两栖少女'
+title: '::(:)Ccru :: 两栖少女'
 tags:
   - Ccru
 date: 2021-02-20

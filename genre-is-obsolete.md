@@ -1,5 +1,5 @@
 ---
-title: '书摘 :: Genre is Obsolete'
+title: '((:))Ray Brassier :: Genre is Obsolete'
 tags:
   - noise
   - ray-brassier

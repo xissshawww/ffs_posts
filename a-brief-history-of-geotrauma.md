@@ -1,5 +1,5 @@
 ---
-title: 'Robin Mackay :: 地质创伤简史'
+title: '(:(:))Robin Mackay :: 地质创伤简史'
 tags:
   - Geotraumatics
   - Geophilosophy

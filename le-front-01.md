@@ -1,5 +1,5 @@
 ---
-title: "阵地LeFront :: 组装自己的学校，让无学校主义胜利！"
+title: "::::阵地LeFront :: 组装自己的学校，让无学校主义胜利！"
 date: 2021-03-31
 tags:
   - le-front
